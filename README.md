@@ -3,6 +3,7 @@ This repo can be used to generate syntheitc images of currency symbols to train 
 
 ## Sample data
 ![Sample image](https://github.com/shubh-tiwari/currency-symbol-data-generator/blob/main/utils/images/generated_data.JPG)
+#### More generated samples are present [here](https://github.com/shubh-tiwari/currency-symbol-data-generator/tree/main/generated_data)
 
 ## Kind of variations included
 1. Different backgrounds (white, gaussian, specific color, syntheic background)
@@ -10,3 +11,6 @@ This repo can be used to generate syntheitc images of currency symbols to train 
 3. Different font colors
 4. skewed and sheared images
 5. Blurring to add distortions
+Any number of variations can be grouped together and applied to generate dataset.
+
+#### To generate, use [this file](https://github.com/shubh-tiwari/currency-symbol-data-generator/blob/main/csdg/generate.py)
